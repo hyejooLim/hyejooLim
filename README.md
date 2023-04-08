@@ -1,6 +1,11 @@
 <h1>Hi!<img src="https://user-images.githubusercontent.com/71072930/173547511-3dc1273a-0112-49c7-911e-644201f456d7.gif" /> Nice To Meet You!</h1>
 
-<p>I'm Hyejoo Lim, i wanna be a Web Frontend developer.</p>
+<p>My name is Hyejoo Lim, Web Frontend developer.</p>
+
+</br>
+
+* I'm currently learning Web Development, Algorithm.
+* 📮 Contact me <aiw99@naver.com>
 
 </br>
 
@@ -16,3 +21,6 @@
 </p>
 
 </br>
+</br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyejooLim%2FhyejooLim&count_bg=%233DC8B7&title_bg=%235E5E5E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
