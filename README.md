@@ -1,6 +1,6 @@
 <h1>Hi!<img src="https://user-images.githubusercontent.com/71072930/173547511-3dc1273a-0112-49c7-911e-644201f456d7.gif" /> Nice To Meet You!</h1>
 
-<p>I'm sandy, Web Frontend developer from Korea.</p>
+<p>I'm Hyejoo Lim, i wanna be a Web Frontend developer.</p>
 
 </br>
 
