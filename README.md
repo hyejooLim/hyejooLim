@@ -4,7 +4,7 @@
 
 </br>
 
-* I'm currently learning Web Development, Algorithm.
+* I'm currently working as a software engineer.
 * 📮 Email <aiw99@naver.com>
 
 </br>
