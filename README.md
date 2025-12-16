@@ -1,34 +1,35 @@
 <h1>
-  Hi!
   <img src="https://user-images.githubusercontent.com/71072930/173547511-3dc1273a-0112-49c7-911e-644201f456d7.gif" />
-  Nice to meet you
+  Hi!, I'm Sandy
 </h1>
 
-<p>
-  My name is <strong>Hyejoo Lim</strong>, a Web Frontend Developer.
-</p>
+**Front-end Developer**  
+Clean UI · UX consistency · Maintainable code
 
-<br />
+### 🔧 Core Strengths
+- Maintenance & refactoring of legacy code
+- Building scalable, reusable UI
+- Smooth collaboration with back-end & API integration
 
-<ul>
-  <li>💼 Currently working as a Software Engineer</li>
-  <li>🧩 Focused on frontend development, UI maintenance, and refactoring</li>
-  <li>📮 Email: <a href="mailto:aiw99@naver.com">aiw99@naver.com</a></li>
-</ul>
+### 🛠 Tech Stack
+**Front-end**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<br />
+**Back-end (Experience)**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat&logo=postman&logoColor=white)
 
-<h3>📚 Tech Stack</h3>
+### 🌱 Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-EBD41B?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=222222" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-2C974B?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+📫 **Contact**: aiw99@naver.com
+
 
 <br />
